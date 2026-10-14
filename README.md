@@ -8,4 +8,4 @@ Most of my work is just something I create when I have too much free time and no
 
 ## 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hv-lab26&layout=compact&theme=tokyonight&hide_border=true))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hv-lab26&layout=compact&theme=tokyonight&hide_border=true)
