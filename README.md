@@ -27,15 +27,4 @@ Feel free to take a very judgemental look at my projects!
 
 </div>
 
----
-
-### Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hv-lab26&theme=tokyo-night&hide_border=true&area=true" />
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/hv-lab26/hv-lab26/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
