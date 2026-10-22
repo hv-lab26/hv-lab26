@@ -1,7 +1,7 @@
 
 ### Howdy partner!
 
-Feel free to take a very judgemental look at my projects!
+Feel free to take a very judgemental look at my projects.
 
 ---
 
